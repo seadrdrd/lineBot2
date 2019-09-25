@@ -28,7 +28,6 @@ def callback():
         sendtext(user,'เสือกครับ')
     else :
         sendtext(user,'!!!!!!!!!!!!')
-
     return '',200
 
 def sendText(user, text):
